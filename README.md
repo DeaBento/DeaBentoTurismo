@@ -1,5 +1,6 @@
 <h1 align="center"> Déa Bento Turismo </h1>
-[Déa Bento Turismo](https://github.com/DeaBento/DeaBentoTurismo/assets/136864556/3e7e9444-e915-4dfd-bc66-de403d5619a3)
+![Déa Bento Turismo](https://github.com/DeaBento/DeaBentoTurismo/assets/136864556/38f05749-f629-41b2-89f1-fb412479bdd3)
+
 <p></p>
 <h2>Projeto Final Elas na Tech</h2>
 <p></p>
